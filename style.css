@@ -222,7 +222,7 @@ p {
 }
 
 .inside_mobile h1 {
-    font-size: 50px;
+    font-size:8vh;
     margin-block-start: 0.1em;
     margin-block-end: 0.1em;
     letter-spacing: 5px;
@@ -230,7 +230,7 @@ p {
 }
 
 .inside_mobile p {
-    font-size: 13px;
+    font-size: 2vh;
     letter-spacing: 0.4px;
     line-height: 26px;
     color: #fff;
@@ -685,7 +685,7 @@ margin-block-end: 0.1em;
 
 .carousel .list .item .title,
 .carousel .list .item .topic {
-    font-size: 3.5em;
+    font-size: 6vh;
     font-weight: bold;
     line-height: 1.3em;
 }
@@ -697,7 +697,7 @@ margin-block-end: 0.1em;
 
 .carousel .list .item .des {
     letter-spacing: 1.3px;
-    font-size: 1.1em;
+    font-size: 2vh;
 }
 
 .carousel .list .item .buttons {
